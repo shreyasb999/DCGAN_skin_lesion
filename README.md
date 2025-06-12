@@ -51,6 +51,10 @@ These two networks are trained in an adversarial manner:
 
 This competition drives both networks to improve, ultimately leading G to generate highly realistic synthetic images.
 
+![Architecture](imgs/architecture.jpg)
+
+![Workflow](imgs/workflow.jpg)
+
 ### Key Aspects:
 
 * **Data Preprocessing**: Input images are resized to a fixed size (e.g., 64x64 pixels) and normalized to fit the tanh activation function's output range (-1 to 1) in the generator.
@@ -131,7 +135,11 @@ After training, you can use the `evaluate.py` script to generate new images from
 
 The DCGAN successfully learns to generate synthetic skin lesion images that capture the visual characteristics of the real dataset. During training, the discriminator's ability to distinguish real from fake images and the generator's ability to create convincing fakes improve over iterations, as indicated by the loss curves.
 
+![Progress of Generator](imgs/progress.gif)
+
 *Initial qualitative assessment shows that the generated images exhibit features similar to actual skin lesions, demonstrating the model's capacity for data augmentation.*
+
+![Real vs Generated](imgs/real_vs_generated.png)
 
 ## Future Scope and Improvements
 
