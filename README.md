@@ -53,6 +53,8 @@ This competition drives both networks to improve, ultimately leading G to genera
 
 ![Architecture](imgs/architecture.jpg)
 
+Workflow:
+
 ![Workflow](imgs/workflow.jpg)
 
 ### Key Aspects:
