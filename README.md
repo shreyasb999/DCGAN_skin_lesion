@@ -4,9 +4,9 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 
 This work is based on the research presented in the following papers:
 
-* Bhavsar, S., Bhalerao, A., Balkawade, S., Chintawar, S., & Pradhan, M. (2021). "DATA AUGMENTATION ON SKIN LESION IMAGE DATA USING GAN FOR INCREASED CNN PERFORMANCE". *International Research Journal of Engineering and Technology (IRJET)*, 8(05), 1729-1733.
+* [Bhavsar, S., Bhalerao, A., Balkawade, S., Chintawar, S., & Pradhan, M. (2021). "DATA AUGMENTATION ON SKIN LESION IMAGE DATA USING GAN FOR INCREASED CNN PERFORMANCE". *International Research Journal of Engineering and Technology (IRJET)*, 8(05), 1729-1733.](https://www.irjet.net/archives/V8/i5/IRJET-V8I5328.pdf)
 
-* Bhavsar, S., Bhalerao, A., Balkawade, S., Chintawar, S., & Pradhan, M. (2021). "SKIN LESION DATA AUGMENTATION USING DCGAN". *International Research Journal of Engineering and Technology (IRJET)*, 8(07), 1424-1428.
+* [Bhavsar, S., Bhalerao, A., Balkawade, S., Chintawar, S., & Pradhan, M. (2021). "SKIN LESION DATA AUGMENTATION USING DCGAN". *International Research Journal of Engineering and Technology (IRJET)*, 8(07), 1424-1428.](https://www.irjet.net/archives/V8/i7/IRJET-V8I7142.pdf)
 
 ## Project Structure
 
